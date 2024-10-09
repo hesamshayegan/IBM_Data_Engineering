@@ -1,6 +1,6 @@
 # IBM Data Engineering Professional Certificate
 
-Here's a brief overview of the modules included in the Module:
+Here's a brief overview of the modules included in the Certificate:
 
 ### Module 1: Introduction to Data Engineering
 
